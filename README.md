@@ -23,6 +23,19 @@
 - [learnyounode](http://www.kancloud.cn/kancloud/learnyounode/47115)
 - [npm入门](http://aerotiger.info/archives/beginners-guide-node-package-manager.html)
 
+## 学习资料
+- [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [JS.Coach](https://js.coach/react-native/?sort=popular)
+- [视频课程： React入门](http://www.imooc.com/learn/504)
+- [视频课程： JavaScript深入浅出](http://www.imooc.com/learn/277)
+- [React Native 蛮荒开发生存指南](https://segmentfault.com/a/1190000004910600)
+
+## 开发工具
+- [Vim](http://wsztrush.github.io/%E5%B7%A5%E5%85%B7/2015/06/10/VIM.html)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Sublime Text 3](http://blog.saymagic.cn/2015/01/01/sublime_text_concise_course.html)
+
 ## 注意事项
+- 部分手机需要开启应用的弹窗权限才能显示开发者菜单：设置->应用管理->(应用名称)->权限管理->悬浮窗
 - 不要在`render`中使用`this.setState()`
 - `props`、`state`设置后不会马上变化，需要等到`render`后
